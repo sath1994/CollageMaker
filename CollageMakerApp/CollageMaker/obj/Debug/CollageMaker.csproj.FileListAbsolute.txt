@@ -1,0 +1,9 @@
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.CollageMakerForm.resources
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.Properties.Resources.resources
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.csproj.GenerateResource.Cache
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\bin\Debug\CollageMaker.exe.config
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\bin\Debug\CollageMaker.exe
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\bin\Debug\CollageMaker.pdb
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.exe
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.pdb
+C:\Users\s5vignes\Documents\Visual Studio 2015\Projects\CollageMaker\CollageMaker\obj\Debug\CollageMaker.csprojResolveAssemblyReference.cache

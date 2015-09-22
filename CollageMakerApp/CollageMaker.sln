@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollageMaker", "CollageMaker\CollageMaker.csproj", "{89A84B9A-67A9-4522-937C-D3A4B20BC80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A84B9A-67A9-4522-937C-D3A4B20BC80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A84B9A-67A9-4522-937C-D3A4B20BC80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A84B9A-67A9-4522-937C-D3A4B20BC80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A84B9A-67A9-4522-937C-D3A4B20BC80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
